@@ -1,6 +1,6 @@
 # f21nl_2025_2026
 
-Labs for F21NL
+## Labs for F21NL
 
 |  Lab  | Week | Topic | Task  | Solution |
 | :---: | :---:| :-------- | :--: | :--: | 
@@ -8,6 +8,12 @@ Labs for F21NL
 |   1   | 2 |  Introduction to Numpy    | [`lab1`](https://github.com/f21nl-heriot-watt/labs_2025_2026-students/blob/main/labs/F21NL_Introduction_to_Numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2025_2026-students/blob/main/labs/F21NL_Introduction_to_Numpy.ipynb) | [`lab1_solution`](https://github.com/f21nl-heriot-watt/labs_2025_2026-students/blob/main/labs/F21NL_Introduction_to_Numpy_solution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2025_2026-students/blob/main/labs/F21NL_Introduction_to_Numpy_solution.ipynb)  |
 |   2   | 3 |  Introduction to PyTorch    | [`lab2`](https://github.com/f21nl-heriot-watt/labs_2025_2026-students/blob/main/labs/F21NL_Introduction_to_PyTorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2025_2026-students/blob/main/labs/F21NL_Introduction_to_PyTorch.ipynb) |[`lab2_solution`](https://github.com/f21nl-heriot-watt/labs_2025_2026-students/blob/main/labs/F21NL_Introduction_to_PyTorch_solution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2025_2026-students/blob/main/labs/F21NL_Introduction_to_PyTorch_solution.ipynb)  |
 |   3   | 4 |  Word Embeddings    | [`lab3`](https://github.com/f21nl-heriot-watt/labs_2025_2026-students/blob/main/labs/F21NL_Word_Embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2025_2026-students/blob/main/labs/F21NL_Word_Embeddings.ipynb) |
+
+## Coursework Scaffolding Code
+|  Coursework  | Deadline | Link | 
+| :---: | :---:| :--: |
+| CW1 | Week 7 (Monday 20/10) | [`cw1`](https://github.com/f21nl-heriot-watt/labs_2025_2026-students/blob/main/cw1/F21NL_CW1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2025_2026-students/blob/main/cw1/F21NL_CW1.ipynb) | 
+
 
 ## Supplementary Material
 
